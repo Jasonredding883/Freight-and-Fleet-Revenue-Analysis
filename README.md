@@ -40,7 +40,7 @@ The goal was to replicate a realistic data analyst workflow:
 ---
 
 ## 📸 Screenshots
-![Dashboard Screenshot](tableau/screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshots/Dashboard_Screenshot.png)
 
 ---
 
@@ -56,7 +56,6 @@ The goal was to replicate a realistic data analyst workflow:
 
 ---
 
-
 ## 📊 Dataset
-- Dataset sourced from **Kaggle** (Logistics Fleet Data).  
+- **Dataset sourced from [Kaggle:Logistics Fleet Data](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data**  
 
