@@ -50,7 +50,7 @@ The goal was to replicate a realistic data analyst workflow:
 
 ## 📂 Repository Structure
 
-- **`python/`** → Includes the jupyter notebook used to prepare the dataset for Tableau.
+- **`Python/`** → Includes the jupyter notebook used to prepare the dataset for Tableau.
 - **`Screenshots/`** → Includes a dashboard screenshot from Tableau to provide a preview.
 - **`README.md`** → Project documentation and walkthrough.  
 
