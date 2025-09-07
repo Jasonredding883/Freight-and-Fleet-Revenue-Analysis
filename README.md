@@ -57,5 +57,11 @@ The goal was to replicate a realistic data analyst workflow:
 ---
 
 ## 📊 Dataset
-- **Dataset sourced from [Kaggle:Logistics Fleet Data](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data)**  
+- **Dataset sourced from [Kaggle:Logistics Fleet Data](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data)**
+
+---
+
+## 📬 Contact  
+- **Email:** jasonredding883@gmail.com
+
 
