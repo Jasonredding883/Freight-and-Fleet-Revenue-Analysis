@@ -35,7 +35,7 @@ The goal was to replicate a realistic data analyst workflow:
   - Top customers by revenue 
   - KPIs
 
-👉 **[View the interactive dashboard here](YOUR_TABLEAU_LINK)**
+👉 **[View the interactive dashboard here]([(https://public.tableau.com/app/profile/jason.redding4616/viz/FleetVisualisations/RevenueDashboard)])**
 
 ---
 
