@@ -37,9 +37,6 @@ The goal was to replicate a realistic data analyst workflow:
 
 👉 **[View the interactive dashboard here](https://public.tableau.com/app/profile/jason.redding4616/viz/FleetVisualisations/RevenueDashboard)**
 
----
-
-## 📸 Screenshots
 ![Dashboard Screenshot](Screenshots/Dashboard_Screenshot.png)
 
 ---
@@ -53,9 +50,12 @@ The goal was to replicate a realistic data analyst workflow:
 
 ## 📂 Repository Structure
 
+- **`python/`** → Includes the jupyter notebook used to prepare the dataset for Tableau.
+- **`Screenshots/`** → Includes a dashboard screenshot from Tableau to provide a preview.
+- **`README.md`** → Project documentation and walkthrough.  
 
 ---
 
 ## 📊 Dataset
-- **Dataset sourced from [Kaggle:Logistics Fleet Data](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data**  
+- **Dataset sourced from [Kaggle:Logistics Fleet Data](https://www.kaggle.com/datasets/syednaveed05/logistics-fleet-data)**  
 
